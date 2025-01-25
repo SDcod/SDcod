@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @SDcod
-- 👀 I’m interested in Computers..
-- 🌱 I’m currently a Software Engineer...
-- 📫 How to reach me swaroop_dongare@instagram...
-
-<!---
-SDcod/SDcod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Swaroop.
+- 👀 I’m interested in Providing a Quality Product.
+- 🌱 I’m currently working as a Software Engineer.
+- 📫 How to reach me linkedin : https://www.linkedin.com/in/swaroop-dongare-169b321a9/
